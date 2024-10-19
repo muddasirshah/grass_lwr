@@ -1,7 +1,8 @@
-# GRASS GIS Interpolation Script
+# GRASS GIS Local Weighted Regression (LWR) Interpolation Python Script
 
 This repository contains a Python script that performs spatial interpolation using GRASS GIS's `r.series.lwr` module. The script is compatible with both Ubuntu and Windows Subsystem for Linux (WSL).
-
+Cleveland and Devlin 1988
+Read More Here: https://grass.osgeo.org/grass84/manuals/addons/r.series.lwr.html
 ## Requirements
 
 - **OS**: Ubuntu or WSL
