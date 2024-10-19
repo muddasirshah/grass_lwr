@@ -22,5 +22,5 @@ sudo apt-get install grass grass-dev
 export GRASSBIN=/usr/bin/grass
 grass --version
 ```
-
+### 2. Run the script
 The provide input output parameters in the main.py script
